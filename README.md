@@ -57,12 +57,22 @@ Go to your Cloudant Service and take note of your Service Credentials. To view t
 > Note : If you don't see service credentials by default you will need to create them. Go to Service Credentials > New Credential > Role - Manager > Add 
 ![](./images/img7.png)
 
-### Step 4: 
+#### Step 4: 
 Go to `Manage` in the left pane and `Launch Dashboard`. Once you launch your dashboard on the top right hand side you will see `Create Database`. Give your database a name and create a `Non-partitioned` database. We will be using this database in our labs. 
-![](./images/img8.png)
+
+### Setting up Event Stream (Optional)
+In an optional workshop we have an example integrating a [Event Stream Service](https://www.ibm.com/cloud/event-streams)
+
+#### Step 1: 
+Go to [IBM Cloud Catalog](https://cloud.ibm.com/catalog) and search for Event Streams.
+
+#### Step 2: 
+Select `Lite` Plan and give your service a name. Click on the `Create` Button to create your Lite service. 
+![](./images/img10.png)
 
 
-
+#### Step 3: 
+Go to your Event Stream and take note of your Service Credentials. To view the service credentials, click `Service credentials` in the left pane, and then click down arrow to view credentials. Take a note of these service credentials for optional lab
  
 
 
