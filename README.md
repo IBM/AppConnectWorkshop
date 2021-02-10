@@ -17,7 +17,7 @@ A flow for an API contains a request, one or more target application actions, an
 [See App Connect Concepts](https://cloud.ibm.com/docs/AppConnect?topic=AppConnect-concepts)
 
 ### In workshop we will go through: 
-- Lab 1 : Creating Event Driven Flow with Http Requests and Cloudant
+- Lab 1 : Creating Event Driven Flow 
 - Lab 2 : Creating API Flow
 - Lab 3 : Working with Templates and Slack 
 
@@ -73,6 +73,16 @@ Select `Lite` Plan and give your service a name. Click on the `Create` Button to
 
 #### Step 3: 
 Go to your Event Stream and take note of your Service Credentials. To view the service credentials, click `Service credentials` in the left pane, and then click down arrow to view credentials. Take a note of these service credentials for optional lab
+
+### Labs 
+Now that we have all of our services set up we can move on to the labs. 
+
+> Note : Start with Lab 1 to understand the basics of App Connect 
+
+- Lab 1 : Creating Event Driven Flow 
+- Lab 2 : Creating API Flow
+- Lab 3 : Working with Templates and Slack 
+
  
 
 
