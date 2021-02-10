@@ -17,9 +17,9 @@ A flow for an API contains a request, one or more target application actions, an
 [See App Connect Concepts](https://cloud.ibm.com/docs/AppConnect?topic=AppConnect-concepts)
 
 ### In workshop we will go through: 
-- Lab 1 : Creating Event Driven Flow 
-- Lab 2 : Creating API Flow
-- Lab 3 : Working with Templates and Slack 
+- [Lab 1 : Creating Event Driven Flow](https://github.com/pmmistry/AppConnectWorkshop/blob/main/EventFlow.md) 
+- [Lab 2 : Creating API Flow](https://github.com/pmmistry/AppConnectWorkshop/blob/main/APIFlow.md)
+- [Lab 3 : Working with Templates and Slack](https://github.com/pmmistry/AppConnectWorkshop/blob/main/Templates.md)
 
 ## Getting Started: 
 In this workshop we will get you started with creating a Lite App Connect Service on IBM Cloud 
@@ -79,9 +79,9 @@ Now that we have all of our services set up we can move on to the labs.
 
 > Note : Start with Lab 1 to understand the basics of App Connect 
 
-- Lab 1 : Creating Event Driven Flow 
-- Lab 2 : Creating API Flow
-- Lab 3 : Working with Templates and Slack 
+- [Lab 1 : Creating Event Driven Flow](https://github.com/pmmistry/AppConnectWorkshop/blob/main/EventFlow.md) 
+- [Lab 2 : Creating API Flow](https://github.com/pmmistry/AppConnectWorkshop/blob/main/APIFlow.md)
+- [Lab 3 : Working with Templates and Slack](https://github.com/pmmistry/AppConnectWorkshop/blob/main/Templates.md) 
 
  
 
