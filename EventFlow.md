@@ -2,7 +2,9 @@
 
 As described in the main [ReadME](https://github.com/pmmistry/AppConnectWorkshop#event-driven-flows), Event driven flows enable you to identify an event that can occur in your first application (the source application), and actions that can be performed in one or more target applications. 
 
-In today's workshop we will configure a simple Event driven flow that uses a Scheduler node to kick off a response from an Http response node (the source application) to send data into a Cloudant database (the target application)
+In this lab we will configure a simple Event driven flow that uses a Scheduler node to kick off a response from an Http response node (the source application) to send data into a Cloudant database (the target application)
+
+Lets get started! 
 
 ## Prerequisites
 - [Create IBM Cloud Account](https://github.com/pmmistry/AppConnectWorkshop#prerequisites)
