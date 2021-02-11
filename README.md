@@ -1,6 +1,6 @@
 # Building Integrations with App Connect 
 
-[IBM® App Connect](https://www.ibm.com/cloud/app-connect) instantly connects applications and data from existing systems and modern technologies across all environments. You can use App Connect to create *event-driven flows* or *flows for APIs*. 
+[IBM® App Connect](https://www.ibm.com/cloud/app-connect) instantly connects applications and data from existing systems and modern technologies across all environments. You can use App Connect to create **event-driven flows** or **flows for APIs**. 
 
 ### Event Driven Flows: 
 In an event-driven flow, you identify an event that can occur in your first application (the source application), and actions that can be performed in one or more target applications. The flow links the event to the actions so that, whenever the event occurs in the source application, the action is automatically triggered in the target applications.
