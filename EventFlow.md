@@ -54,7 +54,9 @@ Once you have your HTTP response node working you will need to parse the Respons
 You will then need to set the Output Schema for this request. In your output schema example json add the following schema derived from the API : `https://reqres.in/api/users/1` 
 > Note : If you put this url in a browser you will see the following schema 
 
-```{"data":{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+```
+{"data":{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+
 ```
 Click on `Generate Schema` and you should see the schema being generated below : 
 ![](./images/img20.png)
