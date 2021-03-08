@@ -25,7 +25,7 @@ A flow for an API contains a request, one or more target application actions, an
 In this workshop we will get you started with creating a Lite App Connect Service on IBM Cloud 
 
 ### Prerequisites
-Register and create an [IBM Cloud Account](https://cloud.ibm.com/login) 
+Register and create an [IBM Cloud Account](https://ibm.biz/ibm-tcs-workshop) 
 
 ### Setting up App Connect Service 
 
