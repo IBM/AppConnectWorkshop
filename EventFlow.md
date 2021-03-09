@@ -100,3 +100,13 @@ Follow this video to get a step by step overview on how to go about doing this
 
 [![App Connect with Event Streams ](http://i3.ytimg.com/vi/ZW0Psrzxn2A/hqdefault.jpg)](https://www.youtube.com/watch?v=ZW0Psrzxn2A&t=259s)
 
+
+
+
+
+
+#### Check out some other labs to learn more
+- [Lab 1 : Creating Event Driven Flow](https://github.com/pmmistry/AppConnectWorkshop/blob/main/EventFlow.md) 
+- [Lab 2 : Creating API Flow](https://github.com/pmmistry/AppConnectWorkshop/blob/main/APIFlow.md)
+- [Lab 3 : Working with Templates and Slack](https://github.com/pmmistry/AppConnectWorkshop/blob/main/Templates.md)
+
