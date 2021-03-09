@@ -68,3 +68,5 @@ For the GET API your output should look like :
 
 Congratulations! You created a POST api and GET api to create and retrieve databases on cloudant. 
 
+[Lab 2 : Creating API Flow](https://github.com/pmmistry/AppConnectWorkshop/blob/main/APIFlow.md)
+
