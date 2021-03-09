@@ -28,3 +28,11 @@ You should see :
 ![](./images/img46.png)
 
 Congratulations on getting the Slack Translation template working. Check out the [How-to guides for Apps](https://www.ibm.com/support/knowledgecenter/SS6KM6/com.ibm.appconnect.dev.doc/how-to-guides-for-apps/index.html) learn how to work with other associated apps :  ![](./images/img47.png)
+
+
+
+#### Check out some other labs to learn more
+- [Lab 1 : Creating Event Driven Flow](https://github.com/pmmistry/AppConnectWorkshop/blob/main/EventFlow.md) 
+- [Lab 2 : Creating API Flow](https://github.com/pmmistry/AppConnectWorkshop/blob/main/APIFlow.md)
+- [Lab 3 : Working with Templates and Slack](https://github.com/pmmistry/AppConnectWorkshop/blob/main/Templates.md)
+
